@@ -2,8 +2,8 @@
  * todo | create a server on port 8000; || done
  * todo | add middlewares; || done
  * todo | find endpoints; || done
- * todo | create routes to every endpoints
- * todo | connect routes with app.js
+ * todo | create routes to every endpoints || done
+ * todo | connect routes with app.js || done
  */
 
 /**
